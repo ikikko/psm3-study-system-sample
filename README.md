@@ -2,6 +2,10 @@
 
 このシステムは、Scrum.orgのProfessional Scrum Master III (PSM III)試験対策のための学習ツールです。Cursor Agentとファイルベースでやり取りしながら、エッセイ形式の問題に取り組み、詳細なフィードバックを受け取ることができます。
 
+## デモ動画
+
+https://github.com/user-attachments/assets/11a9151e-623b-4011-b4fe-4922994aaba4
+
 ## システムの使い方
 
 ### 1. 問題を出題してもらう
